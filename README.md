@@ -1,8 +1,13 @@
 Olá, eu sou o Gustavo!
 Procurando Estágio...
-📕 Estudando HTML, CSS, JavaScript...
-📫 Contate-me no email: gustavotognato12@gmail.com
-💙 LinkedIn: https://www.linkedin.com/in/gustavo-campos-566a18278/
+
+
+- 📕 Estudando HTML, CSS, JavaScript...
+
+- 📫 Contate-me no email: gustavotognato12@gmail.com
+
+- 💙 LinkedIn: https://www.linkedin.com/in/gustavo-campos-566a18278/
+
 
 <div>
   <a href="https://github.com/gurgelt%22%3E
