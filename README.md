@@ -1,8 +1,8 @@
 Olá, eu sou o Gustavo!
-Procurando Estágio...
+Estagiando na empresa Workverse como frontend.
 
 
-- 📕 Tecnologias React, JavaScript, C, HTML, CSS.
+- 📕 Tecnologias C#, React, JavaScript, C, HTML, CSS.
 
 - 📫 Contate-me no email: gustavotognato12@gmail.com
 
